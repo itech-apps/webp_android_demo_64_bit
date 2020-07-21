@@ -5,6 +5,8 @@ webp is a library We use it to save bandwidth as well as shrinking our APK sizes
 
 webp is an adaptation of chromium's webp decoder, and an addition of a JNI wrapper to easily use it it in your java code.
 
+Supported ndk version : android-ndk-r16b
+
 ## How to use it?
 
 ```java
